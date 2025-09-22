@@ -58,7 +58,7 @@ export default function Hero() {
             <div className="rounded-lg bg-gradient-to-r from-primary/20 to-purple-500/20 p-1">
               <div className="rounded-lg bg-background p-8">
                 <img
-                  src="/placeholder.svg?height=600&width=800&text=醫學影像報告系統介面"
+                  src="/placeholder.png?height=600&width=800&text=醫學影像報告系統介面"
                   alt="醫學影像報告系統界面"
                   className="w-full h-auto rounded-md shadow-2xl"
                 />
