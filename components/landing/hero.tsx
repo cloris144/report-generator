@@ -12,7 +12,7 @@ export default function Hero() {
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6">
             本地端多模態 LLM
-            <span className="block text-primary">胸腔 X 光報告</span>
+            <span className="block text-primary">胸腔 X光報告</span>
             智能生成系統
           </h1>
 
